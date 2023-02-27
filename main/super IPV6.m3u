@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="测试2",TVB翡翠台
+http://113.64.147.200:808/hls/67/index.m3u8
+#EXTINF:-1 group-title="测试2",TVB翡翠台
+http://113.64.147.217:808/hls/67/index.m3u8
+#EXTINF:-1 group-title="测试2",TVB翡翠台
+http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 #EXTINF:-1 group-title="热门",芒果华语电影-7M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="热门",芒果TV独播-7M
