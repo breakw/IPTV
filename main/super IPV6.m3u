@@ -11,8 +11,16 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="热门",凤凰资讯HD-8M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="央视",CCTV1HD-4M
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="央视",CCTV1HD-5M
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="央视",CCTV1HD-8M
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视",CCTV1HD-8M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="央视",CCTV1HD-8M
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视",CCTV2HD-4M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226795/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视",CCTV2HD-8M
